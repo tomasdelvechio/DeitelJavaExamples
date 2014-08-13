@@ -1,4 +1,4 @@
-// Figura 25.20: TiraDado.java
+// Figura 25.21: TiraDado.java
 // Tira los dados 6000 veces
 
 import javax.swing.*;
